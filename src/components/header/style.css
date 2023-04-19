@@ -1,0 +1,15 @@
+.appBar{
+    background-color: rgba(0,0,0,0.85);
+    padding: 5px;
+}
+
+#bookingLogo{
+    width: 50px;
+
+}
+#NavLink:hover{
+    transition: 0.4s ease-in-out;
+}
+#NavLink:hover{
+    color: rgb(231, 134, 255);
+}
